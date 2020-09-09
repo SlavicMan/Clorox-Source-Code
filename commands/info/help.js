@@ -7,7 +7,7 @@ exports.run = (client, message, args) => {
     if(command[1] == undefined){
         const embed = new Discord.MessageEmbed()
             .setColor("#FF4500")
-            .addField("Commands",`You can view commands at [AtomicBots](https://http://atomicbots.glitch.me/commands.html)`);
+            .addField("Commands",`You can view commands at [AtomicBots](http://atomicbots.glitch.me/commands.html)`);
         message.channel.send(embed);    
     }
 
