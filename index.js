@@ -73,6 +73,6 @@ fs.readdir("./commands/games/", (err, files) => {
   });
 });
 
-client.login(config.token);
+client.login(process.env.BOT_TOKEN);
 
 
