@@ -73,6 +73,6 @@ fs.readdir("./commands/games/", (err, files) => {
   });
 });
 
-client.login(NzUyODI0MTcyMDk4NjE3NDE0.X1dQJQ.20p1Sy9_0G-c9pozPVjaYJ41Tm0);
+client.login('NzUyODI0MTcyMDk4NjE3NDE0.X1dQJQ.20p1Sy9_0G-c9pozPVjaYJ41Tm0');
 
 
