@@ -4,7 +4,8 @@
   "description": "![Issues](https://img.shields.io/github/issues/cramenorn/raptorsa.svg) ![Stars](https://img.shields.io/github/stars/cramenorn/raptorsa.svg) ![Forks](https://img.shields.io/github/forks/cramenorn/raptorsa.svg) [![Build Status](https://dev.azure.com/davidedlc97/RaptorSA/_apis/build/status/Cramenorn.RaptorSA?branchName=master)](https://dev.azure.com/davidedlc97/RaptorSA/_build/latest?definitionId=1&branchName=master)",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^12.3.1"
+    "discord.js": "^12.3.1",
+    "enmap": "^5.7.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -18,5 +19,3 @@
   "author": "",
   "license": "ISC"
 }
-
-
