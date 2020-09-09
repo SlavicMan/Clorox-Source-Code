@@ -4,8 +4,16 @@
   "description": "![Issues](https://img.shields.io/github/issues/cramenorn/raptorsa.svg) ![Stars](https://img.shields.io/github/stars/cramenorn/raptorsa.svg) ![Forks](https://img.shields.io/github/forks/cramenorn/raptorsa.svg) [![Build Status](https://dev.azure.com/davidedlc97/RaptorSA/_apis/build/status/Cramenorn.RaptorSA?branchName=master)](https://dev.azure.com/davidedlc97/RaptorSA/_build/latest?definitionId=1&branchName=master)",
   "main": "index.js",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "discord.js": "^12.3.1",
     "enmap": "^5.7.1",
+    "geolib": "^3.3.1",
+    "get-json": "^1.0.1",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "request": "^2.88.2",
+    "yql": "^1.0.2",
+    "yt-search": "^2.3.0",
     "ytdl-core": "^3.2.2"
   },
   "devDependencies": {},
